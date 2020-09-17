@@ -21,6 +21,12 @@
 # For loops
 # While loops
 
+# Built on grade HW with:
+#  grade >= 'C' -or- grade in ['A', 'B', 'C']
+#  for loop that runs a list of grades collected one at a time with input() or with a list sent to a function
+#  dictionary of student names and grades
+#  average grade of the students, histogram of grades, etc
+
 # Reading/writing files with open/write/read/close https://docs.python.org/3/library/functions.html#open
 
 # Functions

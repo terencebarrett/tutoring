@@ -1,15 +1,21 @@
 # Build on the Challenge in Second with:
 
-# grade >= 'C' -or- grade in ['A', 'B', 'C']
-
 # input()
 # grade_str = input('Enter grade:')
 # grade_int = int(grade_str)
+# input validation
 
 # loops
-# for loop that runs a list of grades collected one at a time with input() or with a list sent to a function
+# for loop to run the program multiple times
 # while loop for grabbing grades with input() until there is no more
+# iteration counters
 
-# dictionary of student names and grades
+# Homework - work through the examples on these two pages -- will introduce some additional
+#   features on loops like "break", "continue", etc
+# https://www.w3schools.com/python/python_while_loops.asp
+# https://www.w3schools.com/python/python_for_loops.asp
 
-# average grade of the students, histogram of grades, etc
+
+
+
+
