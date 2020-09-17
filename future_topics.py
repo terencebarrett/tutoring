@@ -33,5 +33,6 @@
 
 # Run open source project based on librosa that does beat detection https://www.youtube.com/watch?v=MhOdbtPhbLU
 
+# Input validation
 
-
+# Debugging
