@@ -16,10 +16,10 @@
 # Dictionary
 # Sets
 
-# The Zen of Python
-
-# For loops
-# While loops
+# Loops
+#  For loops
+#  While loops
+#  Using break, continue, else, pass, range with loops
 
 # Built on grade HW with:
 #  grade >= 'C' -or- grade in ['A', 'B', 'C']
@@ -37,7 +37,9 @@
 
 # Run Respirosa scripts for DL training pipeline
 
-# Run open source project based on librosa that does beat detection https://www.youtube.com/watch?v=MhOdbtPhbLU
+# Run open source projects:
+#   One based on librosa that does beat detection https://www.youtube.com/watch?v=MhOdbtPhbLU
+#   Protools control
 
 # Input validation
 
