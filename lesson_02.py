@@ -1,4 +1,4 @@
-# Second: Booleans, If/then/else, f-strings
+# Lesson 02: Booleans, If/then/else, f-strings
 
 # Ctrl-D to duplicate text segments or line(s)
 # Ctrl-/ to comment or uncomment line(s)

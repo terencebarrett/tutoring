@@ -1,4 +1,4 @@
-# Build on the Challenge in Second with:
+# Lesson 03: Build on the Challenge in Second
 
 # input()
 # grade_str = input('Enter grade:')

@@ -31,6 +31,6 @@ while keep_going:
             print(string_1, string_6)
         else:
             print(string_1, string_8)
-
-print('All done!\n')
+else:
+    print('All done!\n')
 

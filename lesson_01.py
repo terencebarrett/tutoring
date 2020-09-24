@@ -1,4 +1,4 @@
-# First: Basics, Variables, Lists
+# Lesson 01: Basics, Variables, Lists
 
 # Show python in a bare system console before moving to the IDE
 # Execute one line: Alt-Shift-e

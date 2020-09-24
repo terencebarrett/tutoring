@@ -13,25 +13,18 @@
 # Version control - git, github, pycharm integration
 
 # Tuples
-# Dictionary
 # Sets
 
-# Loops
-#  For loops
-#  While loops
-#  Using break, continue, else, pass, range with loops
-
-# Built on grade HW with:
+# Build on grade program with:
 #  grade >= 'C' -or- grade in ['A', 'B', 'C']
-#  for loop that runs a list of grades collected one at a time with input() or with a list sent to a function
-#  dictionary of student names and grades
-#  average grade of the students, histogram of grades, etc
+#  function for letter grade determination
+#  histogram of grades
 
 # Reading/writing files with open/write/read/close https://docs.python.org/3/library/functions.html#open
 
 # Functions
 
-# Methods (use of): list methods (append), string methods (upper, lower)
+# Methods (use of): string methods (upper, lower)
 
 # List comprehensions
 
