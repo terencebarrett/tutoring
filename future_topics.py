@@ -11,6 +11,7 @@
 # Pillow: https://pillow.readthedocs.io/en/stable/handbook/overview.html
 
 # Version control - git, github, pycharm integration
+#   Use HW after lesson 5 to demo git flow? On fork (or simulated fork) of Gen1?
 
 # Tuples
 # Sets

@@ -1,0 +1,10 @@
+name: tutoring
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.8
+

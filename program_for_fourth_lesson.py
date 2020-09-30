@@ -2,6 +2,9 @@
 from statistics import mean
 
 # TODO: Allow reentering the student name with a different grade
+# TODO: Display letter grade of average number grade after grade calc is functionalized
+# TODO: Add line plot of number grades and histogram of letter grades
+
 
 string_1 = "letter grade:"
 string_2 = "F."
