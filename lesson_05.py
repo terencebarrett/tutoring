@@ -18,4 +18,7 @@
 # plt.savefig('plots/grades.png')
 # plt.show()
 
+# Documentation on pyplot.plot():
+# https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html?highlight=plot#matplotlib.pyplot.plot
+
 # HW: Code remaining TODOs listed in the script

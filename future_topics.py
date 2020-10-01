@@ -23,8 +23,6 @@
 
 # Reading/writing files with open/write/read/close https://docs.python.org/3/library/functions.html#open
 
-# Functions
-
 # Methods (use of): string methods (upper, lower)
 
 # List comprehensions
@@ -38,3 +36,6 @@
 # Input validation
 
 # Debugging
+
+# Unit testing
+
