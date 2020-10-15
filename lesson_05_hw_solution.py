@@ -1,7 +1,7 @@
 
 # One way to code the TODO: Clean up input so a quit on either stops immediately and doesn't ask for the second input
 """
-input_str = input('Enter student name and their numerical grade (with a space between) -- or "quit" to finish')
+input_str = input('Enter student name and their numerical grade (with a space between) -- or "quit" to finish: ')
 input_list = input_str.split()
 if 'quit' in input_str:
     keep_going = False
@@ -41,5 +41,5 @@ if any([input_grade_str=='quit', input_name_str=='quit']):
 """
 # A better way (using the new topic of `list comprehensions`):
 """
-if any([x=='quit' for x in [one, two]]):
+if any([x=='quit' for x in [input_grade_str, input_name_str]]):
 """
